@@ -14,7 +14,6 @@ function App() {
           {/* TODO: Import and render StudentCard components here */}
           <StudentCard
         name="Ghada alghamdi" id="200431" department="CS" />
-        
         <StudentCard
         name="Hayat alghamdi" id="200535" department="CS" />
         </div>
@@ -22,6 +21,5 @@ function App() {
     </div>
   )
 }
- 
 
 export default App
